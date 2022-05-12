@@ -1,0 +1,5 @@
+﻿1		Login screen (“Početna”) is displayed when application is started.
+1.1		Login screen shall have "Username" textbox. It is enabled and empty.
+1.2		Login screen shall have "Password" textbox. It is enabled and empty.
+1.3		Login screen shall have "Login" button. It is enabled.
+1.3.1	Click on "Login" button opens "Home" page when correct username and password are entered.

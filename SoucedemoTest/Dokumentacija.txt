@@ -1,0 +1,5 @@
+﻿When I navigate to "www.google.hr"
+Then Login screen shall have "Username" textbox. It is enabled and empty.
+And Login screen shall have "Password" textbox. It is enabled and empty.
+And Login screen shall have "Login" button. It is enabled.
+Then I log in with username and password.

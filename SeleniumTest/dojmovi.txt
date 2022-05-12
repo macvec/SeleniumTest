@@ -1,0 +1,5 @@
+﻿Selenium kao alat je zanimljiv ali možda malo kompliciran na prvu ruku
+Definitivno najkomplicirani dio mi je bio postavljanje referenci na nuget pakete
+Selenium sintaksa je relativno intuitivna čak i za početnike
+Specflow je bio i još uvijek je malo zbunjujuć ali razumijem generalni koncept i zašto se koristi
+Definitivno bih rekao da mi treba još vježbe pošto još nisam toliko upoznat sa automatiziranim testiranjem
